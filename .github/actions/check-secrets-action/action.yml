@@ -3,7 +3,7 @@ author: mattdavis0351
 description: validation action for this lab
 
 inputs:
-  your-secret: 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
+  your-secret: repo
     description: A Personal Access Token with the repo scope stored as a secret
     required: true
   secrets-context:
